@@ -7,7 +7,7 @@ const ContactPage = () => {
           <div className="text-center">
             <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl">Contact Us</h1>
             <p className="mt-6 max-w-2xl mx-auto text-xl text-gray-600">
-              We&aposd love to hear from you. Send us a message and we'll respond as soon as possible.
+              We&aposd love to hear from you. Send us a message and we&aposll respond as soon as possible.
             </p>
           </div>
         </div>
